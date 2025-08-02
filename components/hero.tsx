@@ -21,7 +21,7 @@ export default function Hero() {
             Reclaim Your Peace.
           </h1>
           <p className="text-xl md:text-2xl mb-8 font-light leading-relaxed">
-            Journey into wellness through ancient wisdom and modern healing practices
+            this is a test
           </p>
           <Link href="/services/">
             <Button className="bg-sage hover:bg-sage/90 text-white px-8 py-4 text-lg">Explore Our Services</Button>
